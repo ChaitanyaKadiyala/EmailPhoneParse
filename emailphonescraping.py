@@ -2,7 +2,7 @@
 a Python Script to scrape websites for
 email addresses and US phone numbers
 
-Author: Yannick Le Roux
+Author: YannickLeRoux
 
 http://github.com/YannickLeRoux
 '''
